@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Countdown-Timer-React/static/css/main.081fb6ab.chunk.css",
+    "main.js": "/Countdown-Timer-React/static/js/main.01f4cca4.chunk.js",
+    "main.js.map": "/Countdown-Timer-React/static/js/main.01f4cca4.chunk.js.map",
+    "runtime-main.js": "/Countdown-Timer-React/static/js/runtime-main.06303627.js",
+    "runtime-main.js.map": "/Countdown-Timer-React/static/js/runtime-main.06303627.js.map",
+    "static/js/2.a118ce63.chunk.js": "/Countdown-Timer-React/static/js/2.a118ce63.chunk.js",
+    "static/js/2.a118ce63.chunk.js.map": "/Countdown-Timer-React/static/js/2.a118ce63.chunk.js.map",
+    "index.html": "/Countdown-Timer-React/index.html",
+    "static/css/main.081fb6ab.chunk.css.map": "/Countdown-Timer-React/static/css/main.081fb6ab.chunk.css.map",
+    "static/js/2.a118ce63.chunk.js.LICENSE.txt": "/Countdown-Timer-React/static/js/2.a118ce63.chunk.js.LICENSE.txt",
+    "static/media/bg-stars.166881a1.svg": "/Countdown-Timer-React/static/media/bg-stars.166881a1.svg",
+    "static/media/icon-facebook.a9208377.svg": "/Countdown-Timer-React/static/media/icon-facebook.a9208377.svg",
+    "static/media/icon-instagram.b94ff26a.svg": "/Countdown-Timer-React/static/media/icon-instagram.b94ff26a.svg",
+    "static/media/icon-pinterest.ea0db8e7.svg": "/Countdown-Timer-React/static/media/icon-pinterest.ea0db8e7.svg",
+    "static/media/pattern-hills.815d688f.svg": "/Countdown-Timer-React/static/media/pattern-hills.815d688f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06303627.js",
+    "static/js/2.a118ce63.chunk.js",
+    "static/css/main.081fb6ab.chunk.css",
+    "static/js/main.01f4cca4.chunk.js"
+  ]
+}
